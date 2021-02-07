@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\DataStructers\DataStructers\bin\Debug\netcoreapp3.1\DataStructers.exe
+C:\Users\Admin\Desktop\DataStructers\DataStructers\bin\Debug\netcoreapp3.1\DataStructers.deps.json
+C:\Users\Admin\Desktop\DataStructers\DataStructers\bin\Debug\netcoreapp3.1\DataStructers.runtimeconfig.json
+C:\Users\Admin\Desktop\DataStructers\DataStructers\bin\Debug\netcoreapp3.1\DataStructers.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DataStructers\DataStructers\bin\Debug\netcoreapp3.1\DataStructers.dll
+C:\Users\Admin\Desktop\DataStructers\DataStructers\bin\Debug\netcoreapp3.1\DataStructers.pdb
+C:\Users\Admin\Desktop\DataStructers\DataStructers\obj\Debug\netcoreapp3.1\DataStructers.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DataStructers\DataStructers\obj\Debug\netcoreapp3.1\DataStructers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DataStructers\DataStructers\obj\Debug\netcoreapp3.1\DataStructers.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DataStructers\DataStructers\obj\Debug\netcoreapp3.1\DataStructers.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DataStructers\DataStructers\obj\Debug\netcoreapp3.1\DataStructers.dll
+C:\Users\Admin\Desktop\DataStructers\DataStructers\obj\Debug\netcoreapp3.1\DataStructers.pdb
+C:\Users\Admin\Desktop\DataStructers\DataStructers\obj\Debug\netcoreapp3.1\DataStructers.genruntimeconfig.cache

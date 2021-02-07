@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\bin\Release\Flappy bird.exe.config
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\bin\Release\Flappy bird.exe
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\bin\Release\Flappy bird.pdb
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\obj\Release\Flappy bird.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\obj\Release\Flappy_bird.Form1.resources
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\obj\Release\Flappy_bird.Properties.Resources.resources
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\obj\Release\Flappy bird.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\obj\Release\Flappy bird.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\obj\Release\Flappy bird.exe
+C:\Users\Admin\Desktop\Must do it\Flappy bird\Flappy bird\obj\Release\Flappy bird.pdb

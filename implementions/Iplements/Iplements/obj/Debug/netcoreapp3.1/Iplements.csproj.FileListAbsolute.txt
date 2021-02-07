@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\bin\Debug\netcoreapp3.1\Iplements.exe
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\bin\Debug\netcoreapp3.1\Iplements.deps.json
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\bin\Debug\netcoreapp3.1\Iplements.runtimeconfig.json
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\bin\Debug\netcoreapp3.1\Iplements.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\bin\Debug\netcoreapp3.1\Iplements.dll
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\bin\Debug\netcoreapp3.1\Iplements.pdb
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\obj\Debug\netcoreapp3.1\Iplements.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\obj\Debug\netcoreapp3.1\Iplements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\obj\Debug\netcoreapp3.1\Iplements.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\obj\Debug\netcoreapp3.1\Iplements.AssemblyInfo.cs
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\obj\Debug\netcoreapp3.1\Iplements.dll
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\obj\Debug\netcoreapp3.1\Iplements.pdb
+C:\Users\Admin\Desktop\implementions\Iplements\Iplements\obj\Debug\netcoreapp3.1\Iplements.genruntimeconfig.cache
